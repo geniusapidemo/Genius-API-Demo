@@ -11,7 +11,7 @@ This demo project retrieves popular songs for a given artist name.
 
 ### URL links to test the application
 
-    [Swagger](http://localhost:8080/swagger-ui.html "Swagger link")
+    http://localhost:8080/swagger-ui.html
     http://localhost:8080/genius/songs?artistName=elvis%20presley
 
 ### CURL command: 
