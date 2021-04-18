@@ -17,3 +17,10 @@ This demo project retrieves popular songs for a given artist name.
 ### CURL command: 
 
 curl -X GET --header 'Accept: application/json' 'http://localhost:8080/genius/songs?artistName=Elvis%20Presley'
+
+
+### Screenshot:
+
+
+https://user-images.githubusercontent.com/82730093/115157970-863ef480-a051-11eb-9e0e-707016d549bd.mov
+
